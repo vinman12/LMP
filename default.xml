@@ -9,7 +9,7 @@
   <remote  name="tm"
            fetch="https://github.com/TheMuppets/" />
 
-  <remote  name="bmfr"
+  <remote  name="LMP"
            fetch="https://github.com/LMP/" />
 
   <remote  name="github"
