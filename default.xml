@@ -10,7 +10,7 @@
            fetch="https://github.com/TheMuppets/" />
 
   <remote  name="LMP"
-           fetch="https://github.com/LMP/" />
+           fetch="https://github.com/vinman12/LMP" />
 
   <remote  name="github"
            fetch="git://github.com/CyanogenMod/"
